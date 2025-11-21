@@ -1,10 +1,10 @@
 # Este programa sirve para ...
 def programa_1():
-    max_num = input("Introduce un número: ")
+    max_num = input("Introduce un nÃºmero: ")
     sum_nums = max_num
     i = 0
     while (i <= 10):
-        num = input("Introduce otro número ")
+        num = input("Introduce otro nÃºmero ")
         sum_nums =sum_nums+ num
         i += 1
         if num > max_num:
